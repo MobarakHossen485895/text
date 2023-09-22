@@ -1,0 +1,231 @@
+#header{
+    width: 100%;
+    
+    display: block;
+    height: 45px;
+    text-align: 45px;
+    text-align: center;
+    
+    
+}
+
+
+.header_Logo{
+    text-decoration: none;
+    font-size: 30px;
+}
+
+.logo{
+    font-family: 'Abril Fatface', cursive;
+    color: black;
+    font-size: 30px;
+    
+}
+
+.logo_blog{
+    font-size: 50px;
+
+    
+}
+
+a.header_Logo:hover, a.header_Logo:active{
+    font-size: 33px;
+    color: rgb(226, 125, 9);
+
+}
+#header_search{
+    width: 250px;
+    height: 38px;
+    margin-left: 40px;
+}
+ .bar{
+
+    text-decoration: none;
+    font-size: .900rem;
+    font-family: arial,cursive,sans-serif;
+    margin-left: 60px;
+    color: black;
+    
+    
+ }
+a.bar:hover,a.bar:after{
+    font-family: monospace;
+    color: rgb(243, 14, 52);
+    
+    border-radius: 25px;
+}
+#btn{
+    display: block;
+    text-decoration: none;
+    margin-left: 80px;
+    font-size: .900rem;
+    width: 103px;
+    height:auto;
+    background-color: #22c8e5;
+    border-radius: 20px;
+    
+}
+a#btn:hover,a#btn::before{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    background-color: #f7345e;
+    text-justify: distribute-all-lines;
+    
+}
+
+/* header end */
+
+/* banner  section */
+#Web_Progtamming{
+    width: 100%;
+    
+    text-decoration: none;
+    color:#1EBF74 ;
+    
+}
+
+#big-blog-,#Web_Progtamming{
+    font-size: 15px;
+    text-decoration: none;
+    color:#1EBF74 ;
+}
+a#big-blog-,#Web_Progtamming:hover,a#big-blog-,#Web_Progtamming::after{
+    color: #f7345e;
+}
+
+
+
+#big-blog{
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    font-size:2.5rem ;
+    line-height: 3rem;
+    text-align: center;
+}
+#img{
+    display: block;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    transition: width 3s linear 0.5s;
+    border-radius: 6px;
+    
+}
+#img:hover{
+    width: 400px;
+}
+#by{
+    text-align: center;
+    margin-bottom: 30px;
+}
+#word{
+    word-spacing: 10px;
+    line-height-step: 30;
+}    
+
+.p{
+    display: block;
+    opacity: 1;
+    color:#7a7d85 ;
+    margin-top: 15px; 
+    margin-bottom: 25px;
+    font-size: 17px;
+    line-height: 1.8rem;
+    width: auto;
+    
+    margin-left: 200px;
+    margin-right: 200px; 
+    
+}
+.a{
+    text-decoration: dashed;
+    color:#1EBF74 ;
+}
+
+a.a:hover,a.a::after{
+    color: #f7345e;
+}
+
+.h2{
+    display:block;
+    width: auto;
+    margin-left: 175px;
+
+}
+.p1{
+    display: block;
+    opacity: 1;
+    color:#7a7d85 ;
+    margin-top: 15px; 
+    margin-bottom: 25px;
+    font-size: 17px;
+    line-height: 1.8rem;
+    width: auto;
+    
+    margin-left: 200px;
+    margin-right: 200px; 
+
+    margin-bottom: 100px;
+
+}
+.media1{  
+
+    display: block;
+
+    color: #7a7d85;
+    width: 30px;
+    margin-left: 200px;
+}
+
+.media2{  
+
+    display: block;
+
+    color: red;
+    width: 30px;
+    
+}
+.media1:hover{
+    width: 40px;
+}
+
+.media2:hover{
+    width: 40px;
+}
+hr#hr{
+    border: 0.5px solid #7a7d85;
+
+    width: 70%;
+    margin-bottom: 60px;
+    margin-top: 20px;
+
+}
+#fi-text{
+    text-decoration: none;
+    color: #7a7d85;
+    line-height: 23px;
+
+
+}
+#fi-logo{
+    width: 120px;
+    margin-left: 210px;
+    padding: 20px;
+    
+}
+
+#Businesses{
+    text-decoration: none;
+    color: rgb(85, 82, 82);
+    font-size: 1.8rem;
+    width: 100%;
+    margin-left: 50%;
+    font-family: 'Anton', sans-serif;
+
+    margin-bottom: 30px;
+}
+
+
+
+
